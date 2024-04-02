@@ -40,7 +40,7 @@
     }
 
     .img {
-        max-width: 80%; /* Reduce the image size */
+        max-width: 60%; /* Reduce the image size */
         margin-top: -400px; /* Push the image higher */
     }
 }
